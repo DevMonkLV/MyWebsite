@@ -1,0 +1,10 @@
+.center_horizontaly{
+    text-align: center;
+    padding-top: 10%;
+}
+
+.img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+} 
